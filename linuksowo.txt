@@ -1,0 +1,1 @@
+pierwszy plik stworzony w linuksie i spushowany do gita
